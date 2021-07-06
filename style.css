@@ -97,12 +97,6 @@ h1{
     margin-left: 5%;
     margin-right: 5%;
 }
-.footer-bottom{
-    overflow: hidden;
-    text-align: center;
-    background-color: black;
-    height: 200px;
-}
 .box-shadow{
     display: flex;
     width: 85%;
@@ -131,10 +125,25 @@ h1{
     margin-left: 7%;
     margin-bottom: 5%;
 }
+.footer-bottom{
+    overflow: hidden;
+    text-align: center;
+    background-color: black;
+    height: 200px;
+}
 .footer-bottom h2{
     margin-top: 25px;
     color: white;
 }
 .footer-bottom small{
     color: white;
+}
+#footer-copy{
+    color: white;
+}
+.footer-bottom p{
+    color: white;
+}
+.footer-bottom p span{
+    color: orange;
 }
