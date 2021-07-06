@@ -12,6 +12,23 @@ h1{
 #text-color{
     color: gray;
 }
+.menu{
+    display: flex;
+    margin-top: 3%;
+    margin-left: 7%;
+}
+.nav{
+    margin-left: 40%;
+    margin-top: 2%;
+}
+.nav a{
+    text-decoration: none;
+    padding: 10px 20px;
+    margin-right: 5px;
+    border-radius: 5px;
+    background-image: linear-gradient(orange, tomato);
+    color: white;
+}
 .header{
     display: flex;
     margin-top: 5%;
