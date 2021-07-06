@@ -122,6 +122,15 @@ h1{
 .sub-color p{
     margin-top: 0px;
 }
+.submition{
+    margin-left: 7%;
+}
+.btn{
+    display: block;
+    margin-top: 10px;
+    margin-left: 7%;
+    margin-bottom: 5%;
+}
 .footer-bottom h2{
     margin-top: 25px;
     color: white;
